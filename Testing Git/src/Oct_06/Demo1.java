@@ -12,7 +12,7 @@ public class Demo1 {
 	public void m2a()
 	{
 		System.out.println("Hello this is m2 method");
-	}public void m2a()
+	}public void m2a1()
 	{
 		System.out.println("Hello this is m2 method");
 	}
