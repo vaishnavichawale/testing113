@@ -8,7 +8,7 @@ public class Demo1 {
 	public static void main(String[] args) {
 		System.out.println("hello git..");
 		Demo1 d= new Demo1();
-		
+		d.m1();
 	}
 
 }
