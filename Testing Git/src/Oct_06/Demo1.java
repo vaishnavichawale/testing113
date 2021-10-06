@@ -9,6 +9,10 @@ public class Demo1 {
 	{
 		System.out.println("Hello this is m2 method");
 	}
+	public void m2a()
+	{
+		System.out.println("Hello this is m2 method");
+	}
 	public static void main(String[] args) {
 		System.out.println("hello git..");
 		Demo1 d= new Demo1();
