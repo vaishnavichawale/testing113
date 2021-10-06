@@ -12,6 +12,9 @@ public class Demo1 {
 	public void m2a()
 	{
 		System.out.println("Hello this is m2 method");
+	}public void m2a()
+	{
+		System.out.println("Hello this is m2 method");
 	}
 	public static void main(String[] args) {
 		System.out.println("hello git..");
